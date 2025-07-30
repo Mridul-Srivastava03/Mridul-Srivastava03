@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🧠 LeetCode Solutions by [Your Name]
 
-<!--
-**Mridul-Srivastava03/Mridul-Srivastava03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my curated collection of LeetCode solutions.  
+This repository contains my personal solutions to a variety of coding problems on [LeetCode](https://leetcode.com/).
 
-Here are some ideas to get you started:
+> 📌 Regularly updated and synced automatically after each accepted solution!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 LeetCode Progress
+
+- ✅ Total Solved: **[TOTAL_SOLVED]**
+- 📈 Easy: **[EASY_SOLVED]**
+- 🚀 Medium: **[MEDIUM_SOLVED]**
+- 🔥 Hard: **[HARD_SOLVED]**
+
+_Last updated on: `{{DATE}}`_
+
+---
+
+## 🗂️ Repository Structure
+
+Each folder contains solutions categorized by difficulty and problem title. File names follow this pattern:
+
