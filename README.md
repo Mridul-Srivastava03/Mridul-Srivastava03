@@ -6,7 +6,7 @@
 ### 🧑‍🎓 About Me
 
 - 🎓 B.Tech in CSE (Data Science) @ **Techno Main Salt Lake**
-- 💼 Java Backend Intern at **MrBrandy.in**
+- 💼 Java Backend Intern at **Deltafour®**
 - 🧠 Currently learning: Spring Boot · React.js · Machine Learning · System Design
 - 🛠️ Projects:
   - Campus Room & Resource Booking System (MERN)
