@@ -7,11 +7,11 @@
 
 - 🎓 B.Tech in CSE (Data Science) @ **Techno Main Salt Lake**
 - 💼 Java Backend Intern at **MrBrandy.in**
-- 🧠 Learning: Spring Boot · React.js · Machine Learning · System Design
-- 🛠️ Projects:  
-  - Campus Room & Resource Booking System (MERN)  
-  - Loan Management System (Java + React)  
-  - Final Year Project: *🎵 Music Genre Trend & Song Success Prediction*
+- 🧠 Currently learning: Spring Boot · React.js · Machine Learning · System Design
+- 🛠️ Projects:
+  - Campus Room & Resource Booking System (MERN)
+  - Loan Management System (Java + React)
+  - 🎵 Final Year Project: *Music Genre Trend & Song Success Prediction*
 - 🔁 Auto-syncing LeetCode submissions using **LeetHub 3.0**
 
 ---
@@ -24,16 +24,16 @@
   </a>
 </p>
 
-- 🟢 Easy • 🟡 Medium • 🔴 Hard  
-- 🧠 Consistent DSA Practice | Synced Daily via LeetHub
+🟢 Easy • 🟡 Medium • 🔴 Hard  
+🧠 Consistent DSA Practice | Synced Daily via LeetHub
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mridul-Srivastav03&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mridul-Srivastav03&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mridul-srivastav03&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mridul-srivastav03&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ### 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mridul-Srivastav03&theme=discord&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mridul-srivastav03&theme=discord&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 📊 Languages Used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul-Srivastav03&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul-srivastav03&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ### 🌍 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mridul-Srivastav03&label=Profile%20Views&color=6A5ACD&style=flat-square" alt="Visitor Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=mridul-srivastav03&label=Profile%20Views&color=6A5ACD&style=flat-square" alt="Visitor Counter"/>
 </p>
 
 ---
@@ -80,8 +80,8 @@
 
 ### 💡 Personal Motto
 
-> *"Push yourself, because no one else is going to do it for you."* 🌟
+> *"Push yourself, because no one else is going to do it for you."* 🚀
 
 ---
 
-<p align="center">⭐️ Thanks for visiting my profile! If you like what you see, feel free to connect, contribute, or collaborate.</p>
+<p align="center">⭐️ Thanks for visiting my profile! Feel free to connect, contribute, or collaborate.</p>
