@@ -32,8 +32,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mridul-srivastav03&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mridul-srivastav03&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mridul-Srivastava03&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mridul-Srivastava03&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ### 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mridul-srivastav03&theme=discord&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mridul-Srivastava03&theme=discord&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 📊 Languages Used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul-srivastav03&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul-Srivastava03&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ### 🌍 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mridul-srivastav03&label=Profile%20Views&color=6A5ACD&style=flat-square" alt="Visitor Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Mridul-Srivastava03&label=Profile%20Views&color=6A5ACD&style=flat-square" alt="Visitor Counter"/>
 </p>
 
 ---
